@@ -1,0 +1,44 @@
+body{
+	background-image:url("Captain.PNG");
+	background-repeat:no-repeat;
+	background-attachment: fixed;
+	background-size:cover;
+}
+form{
+    margin:150px 600px;
+}
+.fld{
+	margin-top: 15px;
+	margin-bottom: 5px;
+	font-size: large;
+}
+td{
+	padding-top: 40px; 
+}
+
+h1{
+	color:#c8c8c8;
+}
+span{
+	font-size: larger;
+	color: blanchedalmond;
+}
+a{
+	text-decoration: thistle;
+	color: wheat;
+}
+#sub{
+	margin-top: 5px;
+	color: #c8c8c8;
+	background-color: rgb(5, 14, 5);
+	border-radius: 10px;	
+	transition: 0.5s ease;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#sub:hover{
+	background-color: aliceblue;
+	color: black;
+	cursor:pointer;
+}

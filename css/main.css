@@ -1,0 +1,17 @@
+body{
+	background-image:url("Captain.PNG");
+	background-repeat:no-repeat;
+	background-attachment: fixed;
+	background-size:cover;
+}
+form{
+    margin:200px 600px;
+}
+span{
+	font-size: larger;
+	color: blanchedalmond;
+}
+a{
+	text-decoration: thistle;
+	color: wheat;
+}

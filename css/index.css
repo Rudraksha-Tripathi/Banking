@@ -1,0 +1,27 @@
+body{
+	background-image:url("Captain.PNG");
+	background-repeat:no-repeat;
+	background-attachment: fixed;
+	background-size:cover;
+}
+#all{
+	margin:200px 600px;
+}
+.btn{
+	margin-bottom:25px;
+	background-color:black;
+	color:white;
+	border-radius: 10px;
+	font-size:medium;
+}
+h1{
+	color:#c8c8c8;
+}
+a{
+	text-decoration: thistle;
+	color: wheat;
+}
+span{
+	font-size: larger;
+	color: rgb(187, 124, 29);
+}
